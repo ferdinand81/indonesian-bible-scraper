@@ -5,7 +5,11 @@ This Python program scrapes the online Terjemahan Baru Indonesian Bible from htt
 [Name of book from bibleBooks.txt] <space> [Chapter #] <space> [Verse Range]  
 Verse range can be like "1", or "1-3", or "1-", or "-5", or "*" (not in quotes, of course)  
 Entries should be in separate newlines without extra blank spaces in between.  
-Example:  
+  
+**Example:**  
+'''
   Mazmur 1 * (outputs all of Mazmur 1)  
   Mazmur 1 -5 (outputs Mazmur 1: 1-5)  
   Mazmur 2 10- (outputs Mazmur 2: 10-end)  
+  Mazmur 2 3-6 (outputs Mazmur 2: 3-6)  
+'''
