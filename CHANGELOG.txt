@@ -1,0 +1,3 @@
+01/23/19 
+* Fixed bug where additional lines on the bottom parses empty list. 
++ Books in input.txt entries can be in English

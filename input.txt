@@ -1,17 +1,11 @@
-# Must have Python 3 installed.
+# Must have Python 3 installed w/ requests and beautifulsoup4 modules.
 # Enter the bible verses in this format: 
 # [Name of book from bibleBooks.txt] <space> [Chapter #] <space> [Verse Range]
-# Verse range can be like "1", or "1-3", or "1-", or "-5", or "*" (not in quotes, of course)
+# Verse range can be formatted as "1", "1-3", "1-", "-5", or "*" (without quotes)
 # Example: Mazmur 1 -5 (prints Mazmur 1: 1-5)
 # Example: Mazmur 2 10- (prints Mazmur 2: 10-end)
-# Press enter after each entry. Do not leave a blank space between entries.
-kisahpararasul 17 22-25
+# Example: Mazmur 3 * (prints all of Mazmur 3)
+# Press enter after each entry. Start on the next line and 
+# do not leave a blank space between entries.
 kejadian 1 1
-yohanes 1 3 
-mazmur 89 12
-matius 18 20
-yohanes 4 24
-mazmur 34 11
-mazmur 31 16
-yohanes 10 10
-kisahpararasul 4 12 
+mazmur 2 *

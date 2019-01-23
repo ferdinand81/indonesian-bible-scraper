@@ -1,0 +1,16 @@
+TODO
+- Implement error checking
+	|
+	|-- Incomplete input.txt entries
+	|-- Invalid input.txt entries (unknown books, letters for chapter numbers...)
+	\-- Some sort of error when not connected to Internet
+
+- Ease of use
+	|
+	|-- Popup descriptive errors
+	|-- One-click executable (all modules included etc.)
+	\-- Perhaps different formatting of input.txt entries
+
+- Features
+	|
+	\--??
