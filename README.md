@@ -1,4 +1,5 @@
-# indonesian-bible-scraper
+# (Deprecated, see tb-bible-scraper) indonesian-bible-scraper
+## There are known bugs in this program. The website used does not provide some verses for unknown reasons. 
 This Python program scrapes the online Terjemahan Baru Indonesian Bible from http://www.bibledbdata.org/onlinebibles/indonesian_tb and converts it into a single output.txt file. The program takes input using custom syntax in the input.txt file. 
 
 # Syntax for input.txt
